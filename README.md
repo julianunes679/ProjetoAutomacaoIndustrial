@@ -1,5 +1,3 @@
-Aqui está o conteúdo do arquivo **`README.md`** sem os blocos de código formatados com caixas, pronto para copiar diretamente:
-
 # Desafio de Automação Digital: Gestão de Peças, Qualidade e Armazenamento
 
 Este projeto é um sistema lógico desenvolvido em Python para prototipar a automação do controle de produção, inspeção de qualidade e armazenamento de peças em uma linha de montagem industrial.
